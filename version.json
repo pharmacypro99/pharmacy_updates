@@ -1,11 +1,11 @@
 {
-  "version": "2.0.5",
-  "build": "2026-09-20",
-  "title": "تحديث Pharmacy Pro v2.0.5",
-  "message": "إصلاح Segfault عند الإغلاق\nحماية DB عند crash\nتنظيف spec + bak files\nإصلاح نظام التحديثات",
+  "version": "2.0.6",
+  "build": "2026-09-21",
+  "title": "تحديث Pharmacy Pro v2.0.6",
+  "message": "مفتاح ترخيص منفصل للبوت\nواجهة تفعيل البوت في الإعدادات\nخروج نظيف من البوت (لا Segfault)",
   "url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacySystem.exe",
-  "installer_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Setup_v2.0.5.exe",
-  "installer_desktop_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Desktop_Setup_v2.0.5.exe",
+  "installer_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Setup_v2.0.6.exe",
+  "installer_desktop_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Desktop_Setup_v2.0.6.exe",
   "sha256": "",
   "signature": "",
   "mandatory": false
