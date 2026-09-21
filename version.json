@@ -2,7 +2,7 @@
   "version": "2.0.5",
   "build": "2026-09-20",
   "title": "تحديث Pharmacy Pro v2.0.5",
-  "message": "🐛 إصلاح Segfault\n💾 حماية DB\n🧹 تنظيف spec + bak files\n🔐 إصلاح نظام التحديثات",
+  "message": "إصلاح Segfault عند الإغلاق\nحماية DB عند crash\nتنظيف spec + bak files\nإصلاح نظام التحديثات",
   "url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacySystem.exe",
   "installer_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Setup_v2.0.5.exe",
   "installer_desktop_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Desktop_Setup_v2.0.5.exe",
