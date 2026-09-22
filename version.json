@@ -1,8 +1,8 @@
 {
-  "version": "2.0.6",
-  "build": "2026-09-21",
-  "title": "تحديث Pharmacy Pro v2.0.6",
-  "message": "مفتاح ترخيص منفصل للبوت\nواجهة تفعيل البوت في الإعدادات\nخروج نظيف من البوت (لا Segfault)",
+  "version": "2.0.7",
+  "build": "2026-09-22",
+  "title": "تحديث Pharmacy Pro v2.0.7",
+  "message": "دعم ثنائي اللغة كامل",
   "url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacySystem.exe",
   "installer_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Setup_v2.0.6.exe",
   "installer_desktop_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Desktop_Setup_v2.0.6.exe",
