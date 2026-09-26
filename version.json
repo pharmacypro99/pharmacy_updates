@@ -1,13 +1,13 @@
 {
-  "version": "9.9.9",
+  "version": "2.1.2",
   "build": "2026-09-26",
-  "title": "TEST — Update Dialog (non-modal)",
-  "message": "اختبار نافذة التحديث الجديدة",
+  "title": "تحديث Pharmacy Pro v2.1.2",
+  "message": "إصلاح timezone للتقارير\nفصل مرتجعات المبيعات/المشتريات\nEmpty State ذكي في AI Dashboard\nكميات مقترحة للطلب\nإصلاح أستاذ الحسابات + رأس المال",
   "url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacySystem.exe",
   "installer_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Setup_v2.1.2.exe",
   "installer_desktop_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Desktop_Setup_v2.1.2.exe",
   "sha256": "",
   "signature": "",
   "mandatory": false,
-  "bot_version": "9.9.9"
+  "bot_version": "2.1.2"
 }
