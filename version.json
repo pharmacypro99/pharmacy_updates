@@ -1,14 +1,16 @@
 {
-  "version": "2.1.4",
+  "version": "2.1.5",
   "build": "2026-09-28",
-  "title": "تحديث Pharmacy Pro v2.1.4",
-  "message": "🆕 تعديل الباركود (F8)\n🛡️ Migration تلقائي بعد استعادة النسخ\n🔧 إصلاح جدول الدفعات\n🔒 حماية مزدوجة من تكرار الباركود",
-  "url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Setup_v2.1.4.exe",
-  "installer_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Setup_v2.1.4.exe",
-  "installer_desktop_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Desktop_Setup_v2.1.4.exe",
+  "title": "تحديث Pharmacy Pro v2.1.5",
+  "message": "✔ تحسينات عامة\n✔ إصلاح أخطاء\n✔ ميزات جديدة",
+  "url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Setup_v2.1.5.exe",
   "sha256": "",
+  "installer_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Setup_v2.1.5.exe",
+  "installer_sha256": "ad20c40115eb6d191fe051d32015b2139014dee4b56f356262be1d1a42905ce1",
+  "installer_desktop_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Desktop_Setup_v2.1.5.exe",
+  "installer_desktop_sha256": "6f5a4aa12b77474863340dcabdbd5b5e8b017cafdaa7aed35ab6d786f06c2cbb",
   "signature": "",
   "mandatory": false,
-  "bot_version": "2.1.4",
+  "bot_version": "2.1.5",
   "bot_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyBot.exe"
 }
