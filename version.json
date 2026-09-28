@@ -3,7 +3,7 @@
   "build": "2026-09-28",
   "title": "تحديث Pharmacy Pro v2.1.4",
   "message": "🆕 تعديل الباركود (F8)\n🛡️ Migration تلقائي بعد استعادة النسخ\n🔧 إصلاح جدول الدفعات\n🔒 حماية مزدوجة من تكرار الباركود",
-  "url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Desktop_Setup_v2.1.4.exe",
+  "url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Setup_v2.1.4.exe",
   "installer_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Setup_v2.1.4.exe",
   "installer_desktop_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Desktop_Setup_v2.1.4.exe",
   "sha256": "",
