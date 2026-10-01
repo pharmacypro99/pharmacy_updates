@@ -1,7 +1,7 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.0",
   "build": "2026-10-01",
-  "title": "TEST v2.2.1",
+  "title": "تحديث Pharmacy Pro v2.2.0",
   "message": "✔ تحسينات عامة\n✔ إصلاح أخطاء\n✔ ميزات جديدة",
   "url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyPro_Setup_v2.2.0.exe",
   "sha256": "",
@@ -11,6 +11,6 @@
   "installer_desktop_sha256": "fc267d34f220c54fd58c7c5cd43c1c54cb51228e1287a578658d18aefd754d1a",
   "signature": "",
   "mandatory": false,
-  "bot_version": "2.2.1",
+  "bot_version": "2.2.0",
   "bot_url": "https://github.com/pharmacypro99/pharmacy_updates/releases/latest/download/PharmacyBot.exe"
 }
